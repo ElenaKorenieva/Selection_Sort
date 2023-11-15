@@ -13,7 +13,7 @@
 // 1. Create a function with array as a paramether;
 // 2. Create variables for min index, temporary value and length of the array;
 // 3. Use for loop and set min index to the first element in array;
-// 4.  Select the lowest element of the array and put it on the left until it hits
+// 4. Select the lowest element of the array and put it on the left until it hits
 // the last element;
 // 5. Use another for loop and compare each element (except first element) in array
 // to the value of the element with the min index (index stored in min index variable)
