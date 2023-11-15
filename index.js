@@ -13,11 +13,11 @@
 // 1. Create a function with array as a paramether;
 // 2. Create variables for min index, temporary value and length of the array;
 // 3. Use for loop and set min index to the first element in array;
-// 4.  Select the lowest element of the array and putting it on the left until it hits
-//  the last element;
-// 5. Use another for loop and compare each element in array to the value of
-// the element in the array with the min index (index stored in min index variable)
-// 6. Set new min index value to the min index variable inside the for loop;
+// 4.  Select the lowest element of the array and put it on the left until it hits
+// the last element;
+// 5. Use another for loop and compare each element (except first element) in array
+// to the value of the element with the min index (index stored in min index variable)
+//  and find the index of the lowest and swap it with the second element;
 // 6. Return array from the function;
 // 7. Call the function with the necessary argument inside console.log.
 
